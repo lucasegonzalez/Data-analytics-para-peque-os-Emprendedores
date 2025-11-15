@@ -6,6 +6,24 @@ Este repositorio contiene un **Google Colab diseñado como plantilla (template)*
 🔗 **Acceso al Colab:**
 [Optimización de Recursos – Google Colab](https://colab.research.google.com/drive/1wMwN2vYQc3hwBRRKUfjt_ITHVePfty7N?authuser=1#scrollTo=dKceJDPN_QBS)
 
+🌐 Mis Redes – Consultas y Comunidad
+
+Si querés aprender más, consultar algo del notebook o aportar una mejora, estoy totalmente abierto:
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucasegonzalez/
+
+▶️ Canal de YouTube – Data en Criollo: [https://www.youtube.com/@DataEnCriollo](https://www.youtube.com/@Dataencriollo)
+
+En el canal vas a encontrar contenido simple, práctico y bajado a tierra sobre:
+
+Análisis de datos
+
+Métricas y estadística
+
+Power BI, Excel y herramientas del día a día
+
+Explicaciones paso a paso en lenguaje claro
+
 ---
 
 ## 🎯 Objetivo del Colab
@@ -61,6 +79,30 @@ Podés usar ChatGPT para:
 
 ---
 
+🔢  Métricas e Indicadores de Negocio
+
+Cálculo de KPIs básicos
+
+Ratios operativos
+
+Interpretación de métricas
+
+Escalabilidad y escenarios
+
+---
+
+📊  Estadística Descriptiva
+
+Medidas de tendencia central
+
+Medidas de dispersión
+
+Distribuciones básicas
+
+Análisis exploratorio de datos (EDA)
+
+---
+
 ## ⭐ ¡Si te sirvió, dejame una estrella!
 
 Este trabajo lo hago para ayudar a la comunidad de análisis y ciencia de datos, especialmente a quienes están empezando.
@@ -68,9 +110,4 @@ Si esta plantilla te resulta útil, **sumale una estrella al repositorio** ⭐ �
 
 ---
 
-Si querés, puedo también:
 
-✅ Mejorar este README con imágenes o un diseño más visual
-✅ Crear un banner o badges para tu perfil
-✅ Agregar un índice automático
-✅ Subir el archivo `.ipynb` directamente al repositorio
